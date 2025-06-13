@@ -9,5 +9,3 @@ Meu primeiro projeto, funciona apenas com 2 numeros por enquanto, mas planejo me
 codigo simples, terceiro projeto, usa o help() do python e funciona como se fosse um manual, mas apenas em ingles
 
 
-👨‍💻 Sobre mim
-Tenho 13 anos e este é meu segundo projeto em Python! Depois de fazer uma calculadora matemática básica, quis criar algo mais útil para situações reais. Ainda estou aprendendo, mas cada projeto me ensina coisas novas. Quero estudar Ciências Contábeis e vejo que Python pode ser muito útil para análise financeira!
