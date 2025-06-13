@@ -1,8 +1,8 @@
 # projetos
 🛒 Calculadora de Compras
-Meu segundo projeto em Python! Depois de fazer minha primeira calculadora matemática, quis criar algo mais prático para o dia a dia - uma calculadora que ajuda a somar preços de compras.
+Meu segundo projeto em Python! pedi ajuda no inicio para a claude AI, pois estava com duvida sobre como continuar declarando variaveis
 
-Calculadora simples
+🧮Calculadora simples
 Meu primeiro projeto, funciona apenas com 2 numeros por enquanto, mas planejo melhorar ela.
 
 
