@@ -5,7 +5,8 @@ Meu segundo projeto em Python! pedi ajuda no inicio para a claude AI, pois estav
 🧮Calculadora simples
 Meu primeiro projeto, funciona apenas com 2 numeros por enquanto, mas planejo melhorar ela.
 
-
+🆘Ajudante de python
+codigo simples, terceiro projeto, usa o help() do python e funciona como se fosse um manual, mas apenas em ingles
 
 
 👨‍💻 Sobre mim
