@@ -8,4 +8,7 @@ Meu primeiro projeto, funciona apenas com 2 numeros por enquanto, mas planejo me
 🆘Ajudante de python
 codigo simples, terceiro projeto, usa o help() do python e funciona como se fosse um manual, mas apenas em ingles
 
+🧮💯Calculadora de notas
+Quarto projeto, fiz como um desafio que o chatGPT me mandou, funciona bem, aprendi a como usar while True e break
+
 
