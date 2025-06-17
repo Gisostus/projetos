@@ -15,4 +15,8 @@ codigo simples, terceiro projeto, usa o help() do python e funciona como se foss
 
 Quarto projeto, fiz como um desafio que o chatGPT me mandou, funciona bem, aprendi a como usar while True e break
 
+🧮🛒Calculadora de desconto
+
+Quinto projeto, outro desafio do ChatGPT, aprendendo a fazer tratamento de erros com try e except
+
 
